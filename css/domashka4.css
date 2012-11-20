@@ -1,0 +1,21 @@
+﻿a {color:red;}
+.h1 {background:#000000;
+    color:white;
+   }
+.div1 {background-color:#858585;
+       border:2px solid green;
+       text-align:right;
+      }
+.div2 {background-color:#008000;
+       color:yellow;
+       width:400px;
+       height:100px;
+       margin:0 0 0 30%;
+       border-top:2px dashed yellow;
+       border-bottom:2px dashed yellow;
+       padding:20px;
+      }
+.li {background:#000000;
+    color:yellow;
+    font-size:15px;
+    }
